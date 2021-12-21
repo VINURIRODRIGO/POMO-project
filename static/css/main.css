@@ -1,0 +1,103 @@
+.header{
+
+	text-align: left;
+	font-weight: 700;
+    line-height: 3.5;
+	font-size: 2.5rem;
+	margin-left: 21.3%;
+}
+#home .para{
+width: 208%;
+line-height: 2 !important;
+}
+.wrapper.style1 {
+    background: #f3d5b5 url(images/overlay.png);
+    padding: 3% 15%;
+}
+.wrapper.style3 {
+background: #f3f3f3 url(images/overlay.png);
+padding: 3% 15%;
+}
+.para{
+	font-family:'IBM Plex Serif', serif;
+	text-align: justify;
+	font-size:  1.2rem;
+
+}
+.container-box{
+	margin-left: 20%;
+	text-align: justify;
+}
+
+.circle-colour{
+background-color: #d00000;
+border-radius: 100%;
+color: #fff;
+box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+/* Features Section*/
+.features{
+	text-align: center;
+    position: relative;
+    margin: 5% 17%;
+}
+.features-header{
+    text-align: left;
+    font-weight: 700;
+    line-height: 3.5;
+	font-size: 2.5rem;
+	margin-left: 10%;
+}
+.features-title{
+  font-size: 1.5rem;
+  font-weight: 900;
+
+}
+#qualification{
+margin-top: -3%;
+
+}
+.feature-box{
+  padding: 4.5%;
+}
+.icon{
+  color: #fff;
+  margin-top: 1rem;
+  border-radius: 50%;
+  padding:2%;
+  background-color: #bbb;
+}
+
+.social-icon{
+color:#000;
+}
+.social-icon:hover{
+color: #bbb;
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.navigation{
+margin: 50% 0 0 ;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family:'Montserrat-Light', sans-serif;
+  color: #000 !important;
+  font-weight: bold;
+}
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link.active {
+    color: #bbb !important;
+}
+.nav-colour{
+    background-color: #e9ecef;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%) !important;
+}
