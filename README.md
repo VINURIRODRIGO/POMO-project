@@ -3,3 +3,6 @@ POMOmusics is a python GUI that combines Pomodoro technology and a music player.
 
 ### How Pomodoro works
 For one Pomodoro, you need to work on the task for 25 minutes and take a short break of five minutes. After four of these Pomodoros (after four repetitions), you can take a 30 minutes break.
+
+#### Video
+https://youtu.be/_GrzUKjOGEQ
